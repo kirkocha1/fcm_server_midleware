@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "125792691480",
+    "firebase_url": "https://pushfilters.firebaseio.com",
+    "project_id": "pushfilters",
+    "storage_bucket": "pushfilters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125792691480:android:a9cc9927d47ada17",
+        "android_client_info": {
+          "package_name": "com.kirill.kochnev.pushfilters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125792691480-4f261jbg29fp11844q0oldpfjekevelv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQjJ95CM0h9hREvaVBTnh88oYctvCCE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

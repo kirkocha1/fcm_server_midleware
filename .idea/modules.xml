@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firebase_midlware.iml" filepath="$PROJECT_DIR$/firebase_midlware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firebase_midlware_main.iml" filepath="$PROJECT_DIR$/.idea/modules/firebase_midlware_main.iml" group="firebase_midlware" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firebase_midlware_test.iml" filepath="$PROJECT_DIR$/.idea/modules/firebase_midlware_test.iml" group="firebase_midlware" />
+    </modules>
+  </component>
+</project>
